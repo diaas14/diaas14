@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **diaas14/diaas14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,4 +25,3 @@ Pronouns: she/they
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=diaas14&theme=omni&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=diaas14&icon=0&color=5)](https://visitcount.itsvg.in)
