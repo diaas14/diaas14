@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-- I'm currently working a project that involves building a microservices-based application
-- Pronouns: she/they
+- 💻 I'm currently working on a project that involves building a microservices-based application
+- 💬 If you need to reach me, contact me through any of my social media accounts I have listed below!
 
 
 ## 🌐 Socials:
